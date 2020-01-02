@@ -38,11 +38,11 @@
 11. 视频监控、DVR管理、录像管理
 ####  **部分功能截图** 
 ![add image](https://github.com/houzhanwu/hj212-project/raw/master/screenshot/*.png)
-![image text](https://gitee.com/houzhanwu/hj212-project/raw/master/screenshot/data.png)
-![image text](https://gitee.com/houzhanwu/hj212-project/raw/master/screenshot/data_analysis.png)
-![image text](https://gitee.com/houzhanwu/hj212-project/raw/master/screenshot/data_msg.png)
-![image text](https://gitee.com/houzhanwu/hj212-project/raw/master/screenshot/device.png)
-![image text](https://gitee.com/houzhanwu/hj212-project/raw/master/screenshot/map.png)
+![image text](https://github.com/houzhanwu/hj212-project/raw/master/screenshot/data.png)
+![image text](https://github.com/houzhanwu/hj212-project/raw/master/screenshot/data_analysis.png)
+![image text](https://github.com/houzhanwu/hj212-project/raw/master/screenshot/data_msg.png)
+![image text](https://github.com/houzhanwu/hj212-project/raw/master/screenshot/device.png)
+![image text](https://github.com/houzhanwu/hj212-project/raw/master/screenshot/map.png)
 
 
 ####  **通用功能** 
